@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< clinic.programming:maven-tutorial >------------------
+[INFO] Building maven-tutorial 1.6
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven-tutorial ---
+[INFO] clinic.programming:maven-tutorial:jar:1.6
+[INFO] \- org.apache.commons:commons-lang3:jar:3.12.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.065 s
+[INFO] Finished at: 2022-06-24T10:09:01+01:00
+[INFO] ------------------------------------------------------------------------
